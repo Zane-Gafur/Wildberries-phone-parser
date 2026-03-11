@@ -1,0 +1,4575 @@
+{
+    "metadata": {
+        "catalog_type": "preset",
+        "catalog_value": "preset=77001325",
+        "normquery": "телефон",
+        "search_result": {},
+        "name": "телефоны",
+        "rmi": "1",
+        "title": "телефоны",
+        "rs": 100,
+        "context": [
+            "электроника",
+            "uv_reranking"
+        ],
+        "qv": "AQEFAQIAASpyoC-xVrI8L6CsfaiKNOcw_6pRMUAvI7BrJKCpq65SsFErKRkRqAUvy6w1sVGuOKpHqxOvPq9pnCuw_KVgLfWtr7BDr8gwMyShMPSx-ytzqxQwgKwCr_2o3il8MEKs9KRZLdQxRiRxIMyqOKlzL6aw_h-DrRwneavrq-EsFq9crc4rvywHKCmwWiuDrPcqzag4q_qrO6wRLD8qOh-ErEUw4ax4KRKuOSihK1YtGyzrK8UosKrhL0spg6lBraglHioQLKysmhkhqB6rZyw5qj-uBy2XKNMu3Cq5HF8rsCzZJ7iujqgzK9OoGqF7IdEtLiqILd0gb6yeLbKoLaMHKHU",
+        "snippet": "charcs",
+        "kcl": "MlhY7Y0lAwz/4sw2ep4UJgOS0qr66t6PD9TIfpY4i0KKuC/pg10YUOELN9cNpnU",
+        "preset_normquery_map": {
+            "77001325": "телефон"
+        }
+    },
+    "products": [
+        {
+            "id": 799486563,
+            "time1": 744,
+            "time2": 60,
+            "wh": 382818,
+            "dtype": 2757369004033,
+            "dist": 1787,
+            "root": 867860330,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "оранжевый",
+                    "id": 16753920
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Redmi 15C 4 128GB Оранжевый",
+            "entity": "смартфоны",
+            "matchId": 493062549,
+            "supplier": "nituizi泥腿子",
+            "supplierId": 250060216,
+            "supplierRating": 4.7,
+            "supplierFlags": 3072,
+            "pics": 5,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 0.4,
+            "viewFlags": 0,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1193655730,
+                    "wh": 382818,
+                    "time1": 744,
+                    "time2": 60,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 3604000,
+                        "product": 3115600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "AysQk/rC5/u0D/wsvp5VTMlhyHmw+OxkccQKOv/JejqnJWXnG8RSqyWs20S1pvB4Loicvnqn8Fymv2joIgQeGtVgL2tQuQnWcvI82yLkFkLCBnUGsxxnZehQSSsixv9e22vjYJdb8guecCD2C/yxrEaVEygDCxGeCnPnWx8gsrpf5CUPZiIi2RjdKSysc9EV54Xj6S68M8F7vOMnudnYEQOzePJ93z2HRifo4/gm63b98AzgB1/Khl8"
+                }
+            ],
+            "totalQuantity": 54,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "4 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 458180490,
+            "time1": 477,
+            "time2": 61,
+            "wh": 326005,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 364129767,
+            "kindId": 0,
+            "brand": "POCO",
+            "brandId": 132943,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "желтый",
+                    "id": 16776960
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Xiaomi Смартфон X3 Pro Global 8 256 ГБ,разноцветный",
+            "entity": "смартфоны",
+            "matchId": 271625367,
+            "supplier": "Annuan",
+            "supplierId": 4041903,
+            "supplierRating": 4.3,
+            "supplierFlags": 3072,
+            "pics": 6,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 37,
+            "weight": 0.6,
+            "viewFlags": 1572864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 645678747,
+                    "wh": 326005,
+                    "time1": 477,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 4420900,
+                        "product": 2254600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443202,
+                    "payload": "A7H6NZdvAORU0w34D/Pfqxnq3WnUz+wSwgN8tqkf7wJ/IyyZj1lXf/OyJ0VW/LHOeqDGYegURHzImV9Z+CF36spsqCFgEh/4DAneh0tBFN7KLA3DwPppbCyDn6IaMo7ejeGitpeZkfQNjad//Yh8LODKg2BZBEEJo0AmBdW/m7km6W/d4pOPhgA2o6y1h8SUw//8Y2IaqsYkXZrtX0FXhPLiE9axaR7JrAskAtA+YJ5H9pWcB6Lvxt+42dj3"
+                }
+            ],
+            "totalQuantity": 20,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2400х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "108 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 787702741,
+            "time1": 650,
+            "time2": 61,
+            "wh": 382822,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 816856654,
+            "kindId": 0,
+            "brand": "OPPOО",
+            "brandId": 2600002,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "белый",
+                    "id": 16777215
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфоны K13 Turbo Pro 12 ГБ 256 ГБ белое",
+            "entity": "смартфоны",
+            "matchId": 484895348,
+            "supplier": "Русский Смарт",
+            "supplierId": 250056531,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 10,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 6,
+            "weight": 0.6,
+            "viewFlags": 0,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1163062420,
+                    "wh": 382822,
+                    "time1": 650,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 7838700,
+                        "product": 2531900,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A+/86W0beTX7jQjvHrA8DRftHLmtlnDFECGpF4LwAnFCptIt67H602buZLF140xxKl73AgYNXQkRzDLLJBJMSo/DhDjMrgagsnQsHxswcCbhJnDLteoXYQWO8ebOIzgRTqWbtYrKjri4KoYFXdC1ee/4QBTK2roTbpHgIPYY5AYV4bwSSS0et9ctwSDM7S1Ziofedn0ta+KUemvclino60GOH64BQ15zJ7YK59fAeIaVX2hJrmfxg7U"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.8\""
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 372493161,
+            "time1": 477,
+            "time2": 61,
+            "wh": 326005,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 364153098,
+            "kindId": 0,
+            "brand": "POCO",
+            "brandId": 132943,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Xiaomi Смартфон X6 Pro Global 12 256 ГБ, черный",
+            "entity": "смартфоны",
+            "matchId": 214850434,
+            "supplier": "Annuan",
+            "supplierId": 4041903,
+            "supplierRating": 4.3,
+            "supplierFlags": 3072,
+            "pics": 13,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 37,
+            "weight": 0.6,
+            "viewFlags": 1572864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 544050719,
+                    "wh": 326005,
+                    "time1": 477,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 6967800,
+                        "product": 2316700,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A8DaAS2GDVHBNtpGA9vPgN8S4FlOMa6WWn1FaAbxpyKtQgMFXOJZCx22lTM5k4KhH1vcWX9JB+aFIRMPT7280bwG3HAJio4WHnsJKKZ7HMFK6hqKGf2std6hKw5SUasip2648kXh691/z78Hiab5LG64yUSwg6yBPBrl0nx8sutyRjR2tcqlBsoJc1s+X97K9/Qd7AenQuJuzNMd4BgyFf6cklUOCm8LAw5fkIVc9z5pvrj0nFXT+LF214zI"
+                }
+            ],
+            "totalQuantity": 19,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2712х1220"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "64 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 787702740,
+            "time1": 650,
+            "time2": 61,
+            "wh": 382822,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 816856654,
+            "kindId": 0,
+            "brand": "OPPOО",
+            "brandId": 2600002,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфоны K13 Turbo Pro 12 ГБ 256 ГБ черное",
+            "entity": "смартфоны",
+            "matchId": 490427370,
+            "supplier": "Русский Смарт",
+            "supplierId": 250056531,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 10,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 6,
+            "weight": 0.6,
+            "viewFlags": 0,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1163062419,
+                    "wh": 382822,
+                    "time1": 650,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 7838700,
+                        "product": 2531900,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "AwkHS6TcLw/81Qovv8qXtxF0myKnK2nIRzGF/U2lZ1Dnb2ArRwuWyToidS57+WVxKueVlyqyIms/b4a9KGf7Gc3qbFR549ZA8ogoe970jdedqUXrRG18l81wbF22vR+ecU5CvjW4RFSdqZX0pQ4DDfDiGubBZN6/xfw6Ehj10zRTFTKuxjklQzszF9xQ4g2FtWP2l8B23qWt33kvlBu3Mm4xyXpvt7E6izEUICjsDK5RSOs9+KbLHKk"
+                }
+            ],
+            "totalQuantity": 9,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.8\""
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 497600313,
+            "time1": 496,
+            "time2": 61,
+            "wh": 326005,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 505469164,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "зеленый",
+                    "id": 32768
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Redmi Note 10S Global 6 128 ГБ, бирюзовый",
+            "entity": "смартфоны",
+            "matchId": 313599442,
+            "supplier": "Xiaomi store",
+            "supplierId": 250029710,
+            "supplierRating": 4.7,
+            "supplierFlags": 3072,
+            "pics": 6,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 14,
+            "weight": 0.56,
+            "viewFlags": 1572864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 691846817,
+                    "wh": 326005,
+                    "time1": 496,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 4627600,
+                        "product": 2545100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443202,
+                    "payload": "A8Mru72RPt4Imlz1JrkgrhvTlwcaTC2PXFWnMrsI2+PdKpzQgdPxRmmXX4bOpfUaiyidnZuTr5AeQCPLbABaAzEHDEvwv5haGnMEOzjX/OcprsIFVKXpj4N1N6/EOEN6brWpoox1Tb55QQxUbGC7bh2naQVyA0SgBM5vDarcQsRuKprqfvY/6pKMSjlfIF7/asjEkKAtsyTbctIOxJEmRjqrT+AM41N6tgQg1xbHN8FoL6ZVrtJdb1CcbuxT"
+                }
+            ],
+            "totalQuantity": 19,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "6 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.2\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2560х1600"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "64 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 483867715,
+            "time1": 360,
+            "time2": 61,
+            "wh": 325994,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 487082664,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "смартфон Redmi Note 15 Pro+ 5G 12+512 NFC",
+            "entity": "смартфоны",
+            "matchId": 313226572,
+            "supplier": "XM Tech",
+            "supplierId": 4437407,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 7,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 10,
+            "weight": 0.607,
+            "viewFlags": 1572936,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 675323220,
+                    "wh": 325994,
+                    "time1": 360,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 6919700,
+                        "product": 3221100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A79ZNQLREvVFbbE5BtI5xr84kZoJRpvrKwsSUBU/uSKQnge937r8HUoqtafhXbMz1brYrM0kjlo62wSSjyzV82rtKEIA2f7W/5Ue9yo2iRtR5uSizjYQPGdq6CGGXjAE6zR88D0XV/7nTvU52YkY/BldYL6HNjQVRJCewoElFdZwWzA3UXEBN+uDyBHNgf4b+cME/Va0HnGAF8rBSi6SQAGA8gVc2aq4xLFE4IwwsLXRlIhHAzHFI+uY+9g+"
+                }
+            ],
+            "totalQuantity": 22,
+            "logs": "Ml3/Lya7clTLKc22yKlLtKwFTXY+xOEGatRpFk5P3GAOn5xIF4dh1au36mVBv4qphxJ/cyVcUyOa",
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "200 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 738814937,
+            "time1": 477,
+            "time2": 61,
+            "wh": 326005,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 756361239,
+            "kindId": 0,
+            "brand": "OPPO.",
+            "brandId": 24149,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "серый",
+                    "id": 8421504
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "OPPO K13 Turbo Pro смартфон Google Play NFC OTA",
+            "entity": "смартфоны",
+            "matchId": 444992481,
+            "supplier": "KXTX",
+            "supplierId": 250087211,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 12,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 1,
+            "nmFeedbacks": 1,
+            "volume": 10,
+            "weight": 0.6,
+            "viewFlags": 1572880,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1053192091,
+                    "wh": 326005,
+                    "time1": 477,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 3270000,
+                        "product": 2616000,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443202,
+                    "payload": "A7qphQo9Yqp1GWSwWFRKhkpJLFz3pOnawnfDlffgCpE7PQApd2coCdqhwGsqx1TNCBkrugTqfslV6GSvEtgBabHlsVFAlsbu+ziDPYajMQi+eO6XQWmjRmqxRmml97723AeCnhXeQrwuFvnkL/ZkdycnA+bTv1ag97Bwi/Iu33Q2o8PpMAsqr/BuEbBWb2fKmoUMk1aSfKENuBDbVdrFBf85Yxb79/zyL3ZbBHANdkHjIrwn8N0JE2Gtc2vX"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.8\""
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 878907892,
+            "time1": 650,
+            "time2": 61,
+            "wh": 382822,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 1007272803,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "белый",
+                    "id": 16777215
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфоны Redmi note 14 pro+ 16 ГБ 512 ГБ NFC Google Play",
+            "entity": "смартфоны",
+            "matchId": 0,
+            "supplier": "Русский Смарт",
+            "supplierId": 250056531,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 7,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 7,
+            "weight": 0.7,
+            "viewFlags": 2,
+            "isNew": true,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1324669173,
+                    "wh": 382822,
+                    "time1": 650,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 5406000,
+                        "product": 3243600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443200,
+                    "payload": "A7TFqoDN26q7jdHTBm1VKZezfTTWYftKJuQaLHh8l1Gapn2RUpjmMmt7b9+HC6briRdo6C8byqKiEyCQRVzc/0EphxGO7B+FHQEzHjcoVMOjmDmhEk8y47jJx3UL1NddI8MYpEijAwBBehq/9RHE6YP2oj+2VM28mNMGsq/2yrvXgzRC+AMhOEXx0h+SlCCk/UFNAXOzxadvTlAUyWVwocAAlDRcm95O+hlyp3L3F1CmcUUh1uI7xsI"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "16 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2712х1220"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 878907888,
+            "time1": 650,
+            "time2": 61,
+            "wh": 382822,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 1007272803,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфоны Redmi note 14 pro+ 12 ГБ 256 ГБ NFC Google Play",
+            "entity": "смартфоны",
+            "matchId": 0,
+            "supplier": "Русский Смарт",
+            "supplierId": 250056531,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 7,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 7,
+            "weight": 0.7,
+            "viewFlags": 2,
+            "isNew": true,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1324669169,
+                    "wh": 382822,
+                    "time1": 650,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 4204700,
+                        "product": 2943200,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443200,
+                    "payload": "A4Wb/npmlqr6Hcd5cdfAPs6isAC3jAN0/Iu9o8N4gtsNT+qVTrtxRlFifxqoWX7BhkkUfqegimr+hp9wTteVz8sTBh1nKTDN/qjJsujILAAoxEFaURZYjVejhuMbDqPtYPE5a99RBky7bNFZ/VIAJZEeHHBc3R4Qg0h6uAtEdc2vq5edF/m0iLsLvZI1XJEDmX5lUa4hTcuoQOk7ZlrIRriUCPtI84/NHM1V2rap+QasL3YR1X9BeVA"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2712х1220"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 878907891,
+            "time1": 650,
+            "time2": 61,
+            "wh": 382822,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 1007272803,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфоны Redmi note 14 pro+ 16 ГБ 512 ГБ NFC Google Play",
+            "entity": "смартфоны",
+            "matchId": 0,
+            "supplier": "Русский Смарт",
+            "supplierId": 250056531,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 7,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 7,
+            "weight": 0.7,
+            "viewFlags": 2,
+            "isNew": true,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1324669172,
+                    "wh": 382822,
+                    "time1": 650,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 5406000,
+                        "product": 3243600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443200,
+                    "payload": "A2kiyOWiCzt4UGq6rVAP4j1VDYfYGhPjVrbw/jX9BK55vhqPhFxp83XT9WBuz0l0barRyBP989DBZgqOtM+KYJ+YpujU1kr2LAWLz/E/c9iQybZiohDF1FqQ7W7AkUhM1UN2J/EI8s8vZb92cXu25Pm8VLzyBjaj8MdtxnN7yxtESFwW2FAFN5I7mpKwklLLUqmS/yyQAwLBbfxQyI84+FwZUUE+m8eM3M4zJcHqmlbU6Wk/yjHHgyA"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "16 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2712х1220"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 878907893,
+            "time1": 650,
+            "time2": 61,
+            "wh": 382822,
+            "dtype": 2757369004033,
+            "dist": 1720,
+            "root": 1007272803,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "зеленый",
+                    "id": 32768
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфоны Redmi note 14 pro+ 16 ГБ 512 ГБ NFC Google Play",
+            "entity": "смартфоны",
+            "matchId": 0,
+            "supplier": "Русский Смарт",
+            "supplierId": 250056531,
+            "supplierRating": 4.7,
+            "supplierFlags": 6080,
+            "pics": 7,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 7,
+            "weight": 0.7,
+            "viewFlags": 2,
+            "isNew": true,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1324669174,
+                    "wh": 382822,
+                    "time1": 650,
+                    "time2": 61,
+                    "dtype": 2757369004033,
+                    "price": {
+                        "basic": 5406000,
+                        "product": 3243600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443200,
+                    "payload": "A34wCPSsdbbYCywn/N6w7UoIjDpsQNMw9Nku7lhHCnu4Zu7qLEOnixTMmvB+SoTAf7h9CipNZX7rzkJhVbYj96tPCf899T982S5D7kAQTBxkUf5SW8wVjoXzSSnLY9+Ypt0KbDqz2sGRO8B1Aba7pyowJ+DcTVF0CUuyahD4jErvgLJ785hLn9Wnmht+2ivRYkUZ72wxRbd2E+ExNyqciaLXw92Htmf5sYiTuq5Tih8H4ZW8RU1GOq4"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "16 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2712х1220"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 776505410,
+            "time1": 2,
+            "time2": 35,
+            "wh": 117986,
+            "dtype": 6597069766664,
+            "dist": 919,
+            "root": 305091114,
+            "kindId": 0,
+            "brand": "IIIF150",
+            "brandId": 221249805,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "оранжевый",
+                    "id": 16753920
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон B2 PRO, 12+256 Gb",
+            "entity": "смартфоны",
+            "matchId": 467621507,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 19,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 15,
+            "weight": 0.8,
+            "viewFlags": 532496,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1139510759,
+                    "wh": 117986,
+                    "time1": 2,
+                    "time2": 35,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4950000,
+                        "product": 2421500,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "AxCcbWQdRWqnhSy9dJCA2z8m7SIZD6vSJMaybEJlWNOYkQbU08I2rpDv0CjcgQv0etjmiKW5BmP0upYFWDF8C5KG6HhTYRJuwfNI9OYfeVuuEgyBEFhWigxPLXjrA2HquSm5JTcTVzti+GcBvyXmEZoDuMu6kZ3g89P+/vKKL3yFMja7GFQv7ki+eW0tkVzO5I1K284GQkiJQ4G5ju6+BuhmPuEEKYJ7uvNRHrZQc5yIGtEDmbLf7faufQE6"
+                }
+            ],
+            "totalQuantity": 11,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.8\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2400х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "108 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 775982703,
+            "time1": 19,
+            "time2": 18,
+            "wh": 319736,
+            "dtype": 6597069766657,
+            "dist": 27,
+            "root": 797143728,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Redmi Note 15 Pro + 5G RU 8+256",
+            "entity": "смартфоны",
+            "matchId": 481925847,
+            "supplier": "SmartSpace.shop",
+            "supplierId": 183306,
+            "supplierRating": 4.8,
+            "supplierFlags": 12227,
+            "pics": 13,
+            "rating": 5,
+            "reviewRating": 4.9,
+            "nmReviewRating": 4.9,
+            "feedbacks": 92,
+            "nmFeedbacks": 92,
+            "panelPromoId": 1030638,
+            "volume": 25,
+            "weight": 0.5,
+            "viewFlags": 1335306,
+            "isNew": true,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1138656644,
+                    "wh": 319736,
+                    "time1": 19,
+                    "time2": 18,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 4653400,
+                        "product": 3432600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A2y0jk8BYfHevul50f9LIZf0hrce5MeSjFkefAIuWe0kcjBotOgfjScqv0tQ2SwzJXJDQx4XRSEwdkN9vIIH1XITSG1QCvjP7oa621WfroUm54PrFfgywgNkH8RchVWptsS91xxn9uYA+ykwPi8wE9rWGY5GMDxWYs56pCaFDbt2ejYsa1yIT+qGnzeEZPieUj6XCn36ixkpYY6torIUv+Ml//8xsCf5pIjlbSM9a470mywUTPSTQ9WT9qu8"
+                }
+            ],
+            "totalQuantity": 6,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ",
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "200 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 376816221,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 254380087,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "белый",
+                    "id": 16777215
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy А36 8 256 ГБ Awesome White",
+            "entity": "смартфоны",
+            "matchId": 214076567,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 1,
+            "nmFeedbacks": 1,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 0.45,
+            "viewFlags": 548864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 549021280,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3400000,
+                        "product": 2640100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A80wzPVQ+HoloGFPb9ogdXJj8f4B360OCyszeZymNg5lg8a9QDveE13Kk/gZgc0IUjtpd3K3mMA3oB3CpxYWfP/WdxObFqmLeC9BgXT0RYtHI+CFe+QrFjXXA9sZFc8PgrTyIYGTigGkZOoJwAcw1M3XRHDeJIn74MFbvzFVJflyUr6JWZloFxc0/0ZVP8BqUD1alg8LSTYHBlLwBrfVFkMZBie0R2xpXOT0G7z/rsfzvrP4hJZ497tb7wR5"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 195471980,
+            "time1": 19,
+            "time2": 56,
+            "wh": 218804,
+            "dtype": 6597069766657,
+            "dist": 1682,
+            "rcId": 151,
+            "root": 177585622,
+            "kindId": 0,
+            "brand": "iGadget",
+            "brandId": 107597,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "серый",
+                    "id": 8421504
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон iPhone 12 Pro 256GB Graphite",
+            "entity": "смартфоны",
+            "matchId": 39992,
+            "supplier": "iGadget",
+            "supplierId": 992376,
+            "supplierRating": 4.8,
+            "supplierFlags": 12224,
+            "pics": 4,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 0.45,
+            "viewFlags": 532480,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 317584939,
+                    "wh": 218804,
+                    "time1": 19,
+                    "time2": 56,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 4945000,
+                        "product": 3340600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "AzPDd+GxWdRcYigL92uVNM3iCDXbs4L285GKyyRFyEVOCPw8Jaf2ujf2rXHiPML92PJH1kovGpqXCa/V6lX4OvjMEqFYnFXEQSEHZOD1Nk/x2vIgfZsaeyIxhutFqExmKtNAmOptT+7gCOiM7QWLR1gQq2/2zuq0I+iQy8p/kt0F51l/8LwMlE8G5EwvvrDh16P+ZNXOOOw7f9LcQW7wNzCBWAeZvGVuRn6AxKIwDQezXNMZ0kPwr2unS/Fr"
+                }
+            ],
+            "totalQuantity": 1,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.1\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2532х1170"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 484414612,
+            "time1": 2,
+            "time2": 48,
+            "wh": 120762,
+            "dtype": 6597069766664,
+            "dist": 1646,
+            "root": 462175418,
+            "kindId": 0,
+            "brand": "TECNO",
+            "brandId": 23233,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон CAMON 40 Pro 5G 12 256GB, Черный",
+            "entity": "смартфоны",
+            "matchId": 316566586,
+            "supplier": "Электро-точка",
+            "supplierId": 1286873,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 7,
+            "rating": 5,
+            "reviewRating": 4.9,
+            "nmReviewRating": 4.9,
+            "feedbacks": 11,
+            "nmFeedbacks": 11,
+            "panelPromoId": 1030638,
+            "volume": 11,
+            "weight": 0.44,
+            "viewFlags": 1335297,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 675931801,
+                    "wh": 120762,
+                    "time1": 2,
+                    "time2": 48,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 3131500,
+                        "product": 2431600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A5r+1hgzoTmmhChpmorQ5F5MxDnkZ6j6JEDkBcXI8uHqnNVHQqZu9+pkjTWHcLq6L6i02zPkHVP0tx5etcHd1IIzUg1MSxRKxBFhvI+jSYPgnihmLfr//YpUt6oSIAtM9rpkCShr+hwu4he4tkXuyPeKF1eTViUw7OBkmWTqBd6cKOWCu22Zs9X1NzT9gmWoXPDBAMeq/JuovX7d1gwcR7X2XOmOkx6NZpUQuiu58Vm8t3qjE6lX1DcRsnIM"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 575893325,
+            "time1": 2,
+            "time2": 48,
+            "wh": 120762,
+            "dtype": 6597069766664,
+            "dist": 1646,
+            "root": 590718866,
+            "kindId": 0,
+            "brand": "HONOR",
+            "brandId": 24012,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон X9d 5G 12 256Gb, черный, Ростест",
+            "entity": "смартфоны",
+            "matchId": 370531125,
+            "supplier": "Электро-точка",
+            "supplierId": 1286873,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 9,
+            "rating": 5,
+            "reviewRating": 4.8,
+            "nmReviewRating": 4.8,
+            "feedbacks": 110,
+            "nmFeedbacks": 110,
+            "panelPromoId": 1030638,
+            "volume": 13,
+            "weight": 0.5,
+            "viewFlags": 1335297,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 788239098,
+                    "wh": 120762,
+                    "time1": 2,
+                    "time2": 48,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 3475500,
+                        "product": 2698700,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A93mUAt3Bd7ao5dVaOFpke1YH0FdGbjyH8y4EI3bxHWAvZbgO1A/nSGIYV/1AcX90ZhZoqzRV6VqecK2V2fcStsJG2bipSdGhBCNkiY7FFUF6yF+mrJ+CTxWL/bYsisX4brld2iP8UBK8us2K0bAE9ud2ryksda2H4dSOjiLkXWzVB16VF9OTjTStz8avgHJeOs2zycvOHSn457MwgaReEs8264tuA6ZV+NsshioRIEOP04njG46qA1/3z/+"
+                }
+            ],
+            "totalQuantity": 27,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2640х1200"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "108 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 323741901,
+            "time1": 2,
+            "time2": 35,
+            "wh": 117986,
+            "dtype": 6597069766664,
+            "dist": 919,
+            "root": 305190812,
+            "kindId": 0,
+            "brand": "Ulefone",
+            "brandId": 38697,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон Armor 24, 12+256 Gb",
+            "entity": "смартфоны",
+            "matchId": 60228,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 24,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 1,
+            "nmFeedbacks": 1,
+            "volume": 16,
+            "weight": 1,
+            "viewFlags": 532496,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 486573995,
+                    "wh": 117986,
+                    "time1": 2,
+                    "time2": 35,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4950000,
+                        "product": 2652100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A1UCLhPdhUkgs97SUrHcd4JB8S0DQGFe7TJSAzwMVlqKZOYSMvh8v0qcB8jS7WJ8LUGyM0CR+2fGEZsMco9I77IAkBdRmVzTuiv+Polahx/R+jK9pjtbKqyqA0Dlj+GPaTmq8uL38hEWQfVnzajBQLCFQFhqj7leigol19Yc46vtL929E2gCasWrmcCRidV/a7Jyk+fHV+GSwpd9OljxpIbvb4ZJNs/JpBv8Ws/HLne46ze/jsJhE2e7JQYF"
+                }
+            ],
+            "totalQuantity": 12,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2460х1080"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 323846651,
+            "time1": 2,
+            "time2": 51,
+            "wh": 507,
+            "dtype": 6597069766664,
+            "dist": 1724,
+            "root": 305300213,
+            "kindId": 0,
+            "brand": "DOOGEE",
+            "brandId": 27800,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон S118, 8+512 Gb",
+            "entity": "смартфоны",
+            "matchId": 798630,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 19,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 3,
+            "nmFeedbacks": 3,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 1,
+            "viewFlags": 532480,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 486689680,
+                    "wh": 507,
+                    "time1": 2,
+                    "time2": 51,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4950000,
+                        "product": 2306200,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A2Zfi4Y1vNzCO7Xo1HnHljBdOw3elOlC7Zp6wf58cIjDFFEy90wnw9F19qxOolO+gE1m1Iaja3DYQPM0sJPexsJoQctgGOroTe8fR6U213J9TPsa6F8vmrvMQyVxzKNVckUGbUHV5m80O4m8EiXlroS1nqXLPpSCJhnJ0k9iIky/p7Xf0I5dIonRfoJrqDfUIVy5+vQUDKBq7lqat8Zl7OW5xKjBBajIf9DUsA8xylebiEHxA8g6/e2corXM"
+                }
+            ],
+            "totalQuantity": 8,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.5\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2408х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 620445685,
+            "time1": 30,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 645812311,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "зеленый",
+                    "id": 32768
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy А36 8 128 ГБ Awesome Lime",
+            "entity": "смартфоны",
+            "matchId": 405083598,
+            "supplier": "DigitOn",
+            "supplierId": 250066108,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 0.45,
+            "viewFlags": 1581057,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 841930834,
+                    "wh": 371889,
+                    "time1": 30,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3000000,
+                        "product": 2329500,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "AyvcNSAZPu9mek/546SkZojpv+rpICfULlT9goBd9gEuHxuAd7TurOcMxNR/NNVBVRjJJU1bT9QKmTAv7ZH8GTXjQbHJ2YH3e39axCps4GUKMAJlA9zMDlxQ5uCZhtcmURpBZ6jmlJE65sbbVmNVxj3hizLVF4fM8683AUOI971JBFILkQGidNsUTbz/7kN0BZ1kXhr5iQxpoP6j6nwBQTTTYwdqY+gbfATx5dtd5sOswH/AzypKL6/9n+5o"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 262521885,
+            "time1": 2,
+            "time2": 51,
+            "wh": 507,
+            "dtype": 6597069766664,
+            "dist": 1724,
+            "root": 240095454,
+            "kindId": 0,
+            "brand": "DOOGEE",
+            "brandId": 27800,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "серый",
+                    "id": 8421504
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон S200 (5G), 12+256 Gb",
+            "entity": "смартфоны",
+            "matchId": 3120757,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 17,
+            "rating": 5,
+            "reviewRating": 4.6,
+            "nmReviewRating": 4.6,
+            "feedbacks": 5,
+            "nmFeedbacks": 5,
+            "panelPromoId": 1030638,
+            "volume": 12,
+            "weight": 0.8,
+            "viewFlags": 532497,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 407761825,
+                    "wh": 507,
+                    "time1": 2,
+                    "time2": 51,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4000000,
+                        "product": 2515800,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281703424,
+                    "payload": "Axx9xs4FJv0tuDJnJT2RSPu8z5YbUhE9YFgbLgnP72sVeN1b5TmfKj+zGQxnG3F7mPeFHKx9kdRHgXcgBwjbR6B9Q2R9oQMi5WbjtHS+fAzmSPX86Z12ty3jJESuoAGxCcPnJLDhRhsOa0gRyLRCaymTTsG0H+qwyegzufao403BcFP4e4P6f7BaGzlD9PS3k0JyWOYxAy+UxmL/rMyvnBZ34YmqvdS3dqcHvM7RVFLLyV8LC3QdaZ/MDiSM"
+                }
+            ],
+            "totalQuantity": 2,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2408х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "100 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 376817969,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 254380087,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy А36 8 128 ГБ Awesome Black",
+            "entity": "смартфоны",
+            "matchId": 210584954,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 3,
+            "nmFeedbacks": 3,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 0.45,
+            "viewFlags": 548864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 549023237,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3100000,
+                        "product": 2407100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A1Klxn2QOXRdhUrRNpWfKuuUPWNVxjLJ2ULXU3tHVZlgmQFNa0LLK2rOHHRhT3MEB9f2MbVY+Jer0UR5LT7hs6Renr4D9WTQo750AEDYcKkvLK4HKJavlQAVU823WkBVNXv3CYYk8ZkNNWYq3jSfBBGnMas7gedPmnxlsDPtoaULQeYN0LIBFeXEspUL0xGqxPJL/re7EGKeMsGhW+Dx8xutuNn6S1y7pgehtpCLeNo2UhSgl8yhDMUlVUBr"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 279261641,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 259138670,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                },
+                {
+                    "name": "синий",
+                    "id": 255
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy A55 8 128 Gb 5G Navy Темно-синий",
+            "entity": "смартфоны",
+            "matchId": 438787959,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 10,
+            "nmFeedbacks": 10,
+            "panelPromoId": 1030638,
+            "volume": 8,
+            "weight": 0.32,
+            "viewFlags": 548881,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 429226801,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3400000,
+                        "product": 2640100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A6setav4UMWS0/mhRFTgPKIxQZ/XkgeAGJ4Jv0zKv5VsXVDHiUu8KynAbfOhf8Hz/BTgeHGyUm0X83YIxSJ6xwdy2Doyfw456E/ZDX8bW+g+BAoZhFw1xsnpYKSVa+DgMmjcAIVHZXIAjuBr2+KpX2r/Y23T1ej4AaBF0sSww6hwsmZpq/JYNN7+uZ0i5HYYEUgR6Vn1mBBIZP4PBVdJWSPDCjEEVr0HjkF/ZvoJoJnPNsh+e1pL2wF3cIBR"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 262521884,
+            "time1": 2,
+            "time2": 35,
+            "wh": 117986,
+            "dtype": 6597069766664,
+            "dist": 919,
+            "root": 240095454,
+            "kindId": 0,
+            "brand": "DOOGEE",
+            "brandId": 27800,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон S200 (5G), 12+256 Gb",
+            "entity": "смартфоны",
+            "matchId": 2498929,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 18,
+            "rating": 5,
+            "reviewRating": 4.5,
+            "nmReviewRating": 4.5,
+            "feedbacks": 11,
+            "nmFeedbacks": 11,
+            "panelPromoId": 1030638,
+            "volume": 12,
+            "weight": 0.8,
+            "viewFlags": 532496,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 407761824,
+                    "wh": 117986,
+                    "time1": 2,
+                    "time2": 35,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4000000,
+                        "product": 2515800,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281703424,
+                    "payload": "AxdOWwyEBXyzr69kZ6ZTPD6oEKuDH5qaN+UeZDYHlc+VczXetCZeLbAOyBeMQJnYkUK6lUX7ZQ7pSlDETB9O6ekXM5rT7eyVEU/TUr5Ar0EpiRyH8lLR0ZA95GfGxkWExrHQsoWbu2FZvObYUVFBD8zR7wagsOdIdIcUcsjTFodQBpJDGKwYTd+OwL/4WnEljm8pGvPv3qEY6TxHcNM0o93vuND1WDdBcltJBwQIiYm9AGKvMJE3VSCPCxt/"
+                }
+            ],
+            "totalQuantity": 16,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2408х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "100 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 620445689,
+            "time1": 30,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 645812311,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy А36 8 128 ГБ Awesome Black",
+            "entity": "смартфоны",
+            "matchId": 404606409,
+            "supplier": "DigitOn",
+            "supplierId": 250066108,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 10,
+            "weight": 0.45,
+            "viewFlags": 1581056,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 841930838,
+                    "wh": 371889,
+                    "time1": 30,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3100000,
+                        "product": 2407100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A2xdxii/x7kb59pfYGGH6Jdk8m58XTk1lovnSBeCp+wFnpGfge0OUfDtWuNYYUwTV1Bpm5bWYqZs9fTIbwKJlFWZ2ZXtH02Ni7NXtaD1UfAdIJffmWicjXoG6V/NfSuNoc3FgRUyCsA0/VC6+GcGR+ujdO523EidMhqN+QLB7PeRws+QWhid5mKB9dRXHJUt496NuWKpcW7aD0mapZHdzqwDU9uHQKaWcHL2xFMCB+m6ltk2gjEuZ3QWbOnK"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 454429879,
+            "time1": 2,
+            "time2": 48,
+            "wh": 120762,
+            "dtype": 6597069766664,
+            "dist": 1646,
+            "root": 453209977,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "серый",
+                    "id": 8421504
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy A56 12 256 Gb Light gray",
+            "entity": "смартфоны",
+            "matchId": 214075877,
+            "supplier": "CеллСтор",
+            "supplierId": 250014103,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 10,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 18,
+            "nmFeedbacks": 18,
+            "feedbackPoints": 200,
+            "volume": 50,
+            "weight": 0.44,
+            "viewFlags": 532481,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 640964817,
+                    "wh": 120762,
+                    "time1": 2,
+                    "time2": 48,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4060000,
+                        "product": 3152500,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A+ZOhvNz9LVvcVNGVlL2lXZHEBRH9CBlr0FVALCWQbKKcAvi2cesxIw9dGaK0naneXiwlhg1/WO1xk8k+CWMzCCGxXR3+oyByzGZLjLKimUKkl9en3czTmVF8EO/ZoQMSrlvW1ou2lclDSfwJSxm+yOEK29Tsms9TegaIobcs1cYwNuqM1bzkXag6SAYv9do1mMuZ2vcIFZO4046zLeXpuZGMt9aEwSSHSZ4zsxqt+5qZbeTs7710yEkdtZB"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 378019616,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 259138670,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "серый",
+                    "id": 8421504
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy А56 8 256 ГБ Awesome Lightgray",
+            "entity": "смартфоны",
+            "matchId": 214075892,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 9,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 3,
+            "nmFeedbacks": 3,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 0.45,
+            "viewFlags": 548864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 550541222,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 4410000,
+                        "product": 3424300,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "AzYhVspEE+aLBBigPxKNNhy6ET7MdHBLBTRWjVeIPOXQHx7Nn9NjvW0yD8p3xHRgK/0ueECLdNlizkoH+5G5mWsknIW5roO2066cHfdGX4tiSdBoMEMsKZf/NcMFPKOzBNEu7kzWjap6T6odUxmepqrfrfS7AUapA2xvIuGsbIarDKUK/cZOXZnNp5A95kN0TEV47JmHo7mbxnPnSB0OFjOyXq3uE8g5rejGfoDGCmVIZ1IvpaEd6K7xd9A8"
+                }
+            ],
+            "totalQuantity": 6,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 394306900,
+            "time1": 2,
+            "time2": 35,
+            "wh": 117986,
+            "dtype": 6597069766664,
+            "dist": 919,
+            "root": 387598128,
+            "kindId": 0,
+            "brand": "DOOGEE",
+            "brandId": 27800,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "красный",
+                    "id": 16711680
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон S200 Plus (5G), 12 512 Gb",
+            "entity": "смартфоны",
+            "matchId": 260920398,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 29,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 2,
+            "nmFeedbacks": 2,
+            "panelPromoId": 1030638,
+            "volume": 12,
+            "weight": 0.8,
+            "viewFlags": 532496,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 570826286,
+                    "wh": 117986,
+                    "time1": 2,
+                    "time2": 35,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4950000,
+                        "product": 3305500,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A8vM9n9yEUhbVw5XBaHF5h6vu6lbg1WIE1cy4/C+f2C05YeNxtX+IRZ/GORuw84PCecGL2EE0+cTPMQeWnKih2J/lnwy08BEuE5RvumDSU6PYDwPMOlB67yGmYeUz9WvHqcxZr70wxCnB1tzCgoh9X1FVdHSpSiF16yNic6EnaFfJQKEsCrZvc7a6e9Y/agr4iFegmMwupRfGalQM++9vvdMmZWqw9LmkRuRbwfTic2vysvU+j5QFFAQX8YJ"
+                }
+            ],
+            "totalQuantity": 6,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2408х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "100 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 309499299,
+            "time1": 2,
+            "time2": 35,
+            "wh": 117986,
+            "dtype": 6597069766664,
+            "dist": 919,
+            "root": 290219241,
+            "kindId": 0,
+            "brand": "Cubot",
+            "brandId": 373730,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Max 5 (5G), 12 256 Gb",
+            "entity": "смартфоны",
+            "matchId": 3536305,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 18,
+            "rating": 4,
+            "reviewRating": 4.3,
+            "nmReviewRating": 4.3,
+            "feedbacks": 12,
+            "nmFeedbacks": 12,
+            "panelPromoId": 1030638,
+            "volume": 11,
+            "weight": 0.7,
+            "viewFlags": 532497,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 468549917,
+                    "wh": 117986,
+                    "time1": 2,
+                    "time2": 35,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4000000,
+                        "product": 2236300,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "AwzmtzDIlUYvDCXoQz5EzjxWCUvaqG7v9ZUgfyDI1xtKxaeIFYAp45Upc9UxJd5CMWARwnZLEb8ecH+M/G17D8mF87UFd5xu+SxWDsvEQwBfXl6cy9IvoYAGG+9Ll7BE/xHxwsKpUPbIjxL55mPjwx1JaWHWlw1aaehSEkLkE481ldJ3o85eciqBg1VJ+X3wDSX8mjAwyqfB04wQ/MlRIsgfwDsm+kSbefjyH5YUhCr1/nAtx+rUWv/OyK2E"
+                }
+            ],
+            "totalQuantity": 19,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.9\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2460х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "100 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 621172486,
+            "time1": 11,
+            "time2": 56,
+            "wh": 218804,
+            "dtype": 6597069766657,
+            "dist": 1682,
+            "rcId": 138,
+            "root": 646653620,
+            "kindId": 0,
+            "brand": "Apple",
+            "brandId": 6049,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон iPhone 14 128GB Витринный образец Global Version",
+            "entity": "смартфоны",
+            "matchId": 402283988,
+            "supplier": "GameBox",
+            "supplierId": 4389046,
+            "supplierRating": 4.8,
+            "supplierFlags": 12256,
+            "pics": 2,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 46,
+            "nmFeedbacks": 46,
+            "panelPromoId": 1030638,
+            "volume": 10,
+            "weight": 0.52,
+            "viewFlags": 532481,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 842720562,
+                    "wh": 218804,
+                    "time1": 11,
+                    "time2": 56,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 5999000,
+                        "product": 3214100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A7DjqBcUd7JpUYp2/o6KBkmIORggcjaztn7OeEe73H652CRKghzdTR3f3Wx5SdFdRwvmJcozNUuE+y3kC5ngA/V6v66ZyAp2S80v5e9MoD66lWqVTG5CLxf6shekRK8X32aSQWYQlFthmXi2DQxDPOihaiJ6LAvpP5RgFNitP0KHLUq0OD1UlhWLj4PaXaDMOmIq4aAzFEqcCjcqUrxWsoLKmUpyHmYlj/PUmkf/6r4mJz7AIijEeI76x/Qv"
+                }
+            ],
+            "totalQuantity": 54,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "6 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.1\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2532х1170"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "12 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 279108072,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 254380087,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "фиолетовый",
+                    "id": 15631086
+                },
+                {
+                    "name": "розовый",
+                    "id": 16761035
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy A35 256Gb 5G Lilac Лавандовый",
+            "entity": "смартфоны",
+            "matchId": 367928645,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 4,
+            "reviewRating": 4.2,
+            "nmReviewRating": 4.2,
+            "feedbacks": 5,
+            "nmFeedbacks": 5,
+            "panelPromoId": 1030638,
+            "volume": 7,
+            "weight": 0.29,
+            "viewFlags": 548865,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 429047761,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3100000,
+                        "product": 2407100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "AxUC0dkTCD9m8aOF2Z/o8t4IrUIZVcxlsvipYPJEkHqKjfpYFS4ysHlIpM9VgP4CrphnyMoedhq+EzI74LejBAzy3nkKCcAfiHm9vioY5/hSEKcxpuiZsIHzbk2MmqTwXGN9VBF9Gk3rrZoqfAETyx0J36kY/9G4Imm6WauiZZjoNxN+i59lQ+hJA7McEtT17rKLURkuuJEjCyannCQ9+DR6zM1xbeyI2cKbOxry/SdZncBS6E6Yp0+R7JwO"
+                }
+            ],
+            "totalQuantity": 6,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 292145116,
+            "time1": 2,
+            "time2": 51,
+            "wh": 507,
+            "dtype": 6597069766664,
+            "dist": 1724,
+            "root": 272495927,
+            "kindId": 0,
+            "brand": "Cubot",
+            "brandId": 373730,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон KINGKONG STAR 2 (5G), 12+256 Gb",
+            "entity": "смартфоны",
+            "matchId": 3696493,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 15,
+            "rating": 5,
+            "reviewRating": 4.9,
+            "nmReviewRating": 4.9,
+            "feedbacks": 10,
+            "nmFeedbacks": 10,
+            "panelPromoId": 1030638,
+            "volume": 15,
+            "weight": 0.7,
+            "viewFlags": 532496,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 445423938,
+                    "wh": 507,
+                    "time1": 2,
+                    "time2": 51,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4000000,
+                        "product": 2360500,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281703424,
+                    "payload": "A2rIW1jyhUevmZR2gc435jjE2ra933KjPFzg5x0DtlIEsL8Rn8GJ8inG+km/Bfw9cWHajzn9qmGkzADy/95esFGQJMjtMinkBnSzTTPAopHPku2bZMBhT3JFEdDfztTnZTTe4JBncPpRd8DnguIHNigKFo6YnwalCBlXxXBDGtGhu4fQYTZq/qVVi/lT4kCk1y674FgyIjNUkRKFS6WFW6UTuUmG+6g/6vNS8+PoM2mNTk/QJhZ0moedsD0R"
+                }
+            ],
+            "totalQuantity": 6,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2460х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "100 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 275112344,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 254380087,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                },
+                {
+                    "name": "синий",
+                    "id": 255
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy A35 256Gb 5G Navy Tемно-синий",
+            "entity": "смартфоны",
+            "matchId": 125754727,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 5,
+            "reviewRating": 4.9,
+            "nmReviewRating": 4.9,
+            "feedbacks": 15,
+            "nmFeedbacks": 15,
+            "panelPromoId": 1030638,
+            "volume": 7,
+            "weight": 0.29,
+            "viewFlags": 548864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 424218579,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3100000,
+                        "product": 2407100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "AzWvaIGNwmByv4vKeZCjNmxtrwx9S1rQQUM2tpQp1pytG/lH2FUc70XnUH8urDvFNVdDbRxk7efz7NKwzUyuEEP7BVaLHsI51GZ0bjMMNPVuyb+nEYJB7sNorkNtMCrx+LJIFaUk3//OqBR/xixT//b23ypt8uyj9yrhTA0xPiMjUk3ogXcNnelGcNoR/ysIOBbjOVPbW8hUMgOmGsSlPTOhZs5rTTD6zXxL9BBzp7nmkMnO15Ee6FBEOXr5"
+                }
+            ],
+            "totalQuantity": 3,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 649402536,
+            "time1": 30,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 663639127,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy А26 8 256 ГБ черный",
+            "entity": "смартфоны",
+            "matchId": 411534319,
+            "supplier": "DigitOn",
+            "supplierId": 250066108,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 16,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 10,
+            "weight": 0.45,
+            "viewFlags": 1581057,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 876413757,
+                    "wh": 371889,
+                    "time1": 30,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3000000,
+                        "product": 2329500,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A3LbF7lDPexHxsixDRl2VzduWoTjb4CA66/0k6jS507H7Jp9gwuQSPoAUBLXSm7mMsj7+FiuXzubSVztHhIYeeYCqYyxi0wUwpX8cwzOXxbRywVbqvNcpmX2luJ6V2yea9buTe+CDdQWbP7aD7JZyepPvIExzBwL5ZREUw/oVNcYWAfZlcVg7eHqFGd/FhU0Klm+yxwCtnGhKpkcfWl9S7IGFvWUjuTQ364sUSSoH11d3eu+VoWF7aa4H2k4"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 791184884,
+            "time1": 2,
+            "time2": 35,
+            "wh": 117986,
+            "dtype": 6597069766664,
+            "dist": 919,
+            "root": 831553043,
+            "kindId": 0,
+            "brand": "Blackview",
+            "brandId": 24840,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон Oscal Pilot 3, 12 256 Gb",
+            "entity": "смартфоны",
+            "matchId": 499608075,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 27,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 18,
+            "weight": 1,
+            "viewFlags": 532496,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1171231789,
+                    "wh": 117986,
+                    "time1": 2,
+                    "time2": 35,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4950000,
+                        "product": 2267700,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A7M9DFA1WjVEMhUE/YF/b9dixJv1nkz6KVX2hiTCB0jq/go/1+biDFDqrs1hhZZ/wYwj+pFK52rl4bmDA+epIVvyfQNGMcghSVoGH5S0jSwRsDrClowCQrkYLEX/MLpFDGFQPxBD0u5CuaH0TToP3rqb+CdLHIJgSFjiTjBNrVPFUiWGW3rbJSQTERVh2ik5Rl7hxK/Ky3fsVxSddUifcWQ7A2oceoo+2xq5SF2mBiYKXUHNLlmO2tkUNLuo"
+                }
+            ],
+            "totalQuantity": 9,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2460х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 279261645,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 259138670,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "голубой",
+                    "id": 11393254
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy A55 8 128 Gb 5G Iceblue Голубой",
+            "entity": "смартфоны",
+            "matchId": 219552173,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 1,
+            "nmFeedbacks": 1,
+            "volume": 8,
+            "weight": 0.32,
+            "viewFlags": 548880,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 429226805,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3400000,
+                        "product": 2640100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A4MbXrL7etFMIpJ2p/snQkX+2riS6FmNskPxT4zFrGyRew2nLim1OpGJlCmu6JQtEbP8B9oBXw2KW4jpQ3hCe/F7B3G/bAHjmJt9IW23rYHKkbfexYm9EohIyQ/2deBsTRmqI9p6/cF/8AWr/M1oVjn9RAozk1OANFLuJrKaz0xTZOnPjWl1H0olBpdhlZX4vVzSXFbqyDBW8i0bW92N1QCYNbQF3sOVxwXPMGFqvlsbiYNDrtv4gPxtZkQj"
+                }
+            ],
+            "totalQuantity": 3,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "128 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 279261646,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 259138670,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "голубой",
+                    "id": 11393254
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy A55 8 256 Gb 5G Iceblue Голубой",
+            "entity": "смартфоны",
+            "matchId": 150095821,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 5,
+            "nmFeedbacks": 5,
+            "panelPromoId": 1030638,
+            "volume": 8,
+            "weight": 0.32,
+            "viewFlags": 548880,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 429226806,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3900000,
+                        "product": 3028300,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A97OzH56QMWSeEM06MmuFxy9/Eoa4r9IBy0o7MBKgmbmLQEm5eTt0yFY5xVzDgfk7xMB859Sv+d74nEZiombgMgahG73DUrX6d3ZerSPKp6ZssTs/cmym+uMgFThNJNNPqNdRysCC0wI/dOLh0/8hP8C+0CNk+XD+Fad19gUWyUJgwW/UOnUGtajsnFby4Y6balfB+eCa2ghS8Wdv/83Kf2xgKwBFyqeRTfT7u1ESGCWAo7thIjetZu0RomS"
+                }
+            ],
+            "totalQuantity": 4,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 323846650,
+            "time1": 2,
+            "time2": 51,
+            "wh": 507,
+            "dtype": 6597069766664,
+            "dist": 1724,
+            "root": 305300213,
+            "kindId": 0,
+            "brand": "DOOGEE",
+            "brandId": 27800,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон S118, 8+512 Gb",
+            "entity": "смартфоны",
+            "matchId": 763409,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 20,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 10,
+            "weight": 1,
+            "viewFlags": 532480,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 486689679,
+                    "wh": 507,
+                    "time1": 2,
+                    "time2": 51,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4950000,
+                        "product": 2383000,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A3z1PPhz6TjdmfkZx26Gml337Btl66VjXunRdBkfJsm/bZxF/vc0XSX9NgK0++FhMq+qeZwtuwR6yUZm21KQIAuOKWBK4Je2oV0NZXBy1A9B5Udi3oWjD1lgqcNlgU7pxogtI0hgw64DPgCSPi/4QYgX2ZfvVbQPSBh5aEX0JWGFuVemni7QLShGh7hhWNu3SgeiNPNz7thLaiFdoiKLmY8/WLA59wDUHfWbcRLZRxgEv2U2Ziq3eiG6Q5l6"
+                }
+            ],
+            "totalQuantity": 3,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.5\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2408х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 784208738,
+            "time1": 60,
+            "time2": 62,
+            "wh": 313451,
+            "dtype": 6597069766657,
+            "dist": 2380,
+            "root": 789417240,
+            "kindId": 0,
+            "brand": "Oukitel",
+            "brandId": 26210,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "серый",
+                    "id": 8421504
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Защищенный смартфон WP62 5G, 12+512 Gb",
+            "entity": "смартфоны",
+            "matchId": 482986678,
+            "supplier": "ShopPlace",
+            "supplierId": 4332992,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 24,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "volume": 13,
+            "weight": 1,
+            "viewFlags": 532496,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1156251974,
+                    "wh": 313451,
+                    "time1": 60,
+                    "time2": 62,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 4950000,
+                        "product": 2805800,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A+HUoymEoPZjXsZGooNc6ed6OVmAZJiPKIbaRs2hqk8t7K7bBffSPr6pUeIA27MtnAta/aFBX+oE+ny1jLHglm4AjCkliJyF1O0hQo7cxrEuQr05++hd4d+B1pZgxqdZxy/nNy5xK/MR7dO5P0PLdDcvtUdImKKS/TL6l9lDb5M78Q9lcXFHSVn0ymhJ39xou4ElgK8++ibpELWValYBrzz7bdSzMwwgFm9Jj2VIlnmlL76hoJud4nh4E9gC"
+                }
+            ],
+            "totalQuantity": 1,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ",
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2460х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "108 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 279108074,
+            "time1": 23,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 254380087,
+            "kindId": 0,
+            "brand": "Samsung",
+            "brandId": 5772,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "голубой",
+                    "id": 11393254
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Galaxy A35 256Gb 5G Iceblue Голубой",
+            "entity": "смартфоны",
+            "matchId": 134981114,
+            "supplier": "МаксТрейд",
+            "supplierId": 3951987,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 4,
+            "reviewRating": 4.1,
+            "nmReviewRating": 4.1,
+            "feedbacks": 9,
+            "nmFeedbacks": 9,
+            "panelPromoId": 1030638,
+            "volume": 7,
+            "weight": 0.29,
+            "viewFlags": 548864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 429047763,
+                    "wh": 371889,
+                    "time1": 23,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3100000,
+                        "product": 2407100,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A8MKk6xf/9u84/MZhLJG3b8/pkxukSKyzPCsnQNyqSrvXvBmMUY5TO0fFLofy2TQr0O5PUpdL383+cP9H5Osdp8VtjRn0OON9+KOQoUPEbwDppBDBEnmSuX1gw6F5x9mSzWqO3mS1eeCQbqscEahHhMbqxeGFjfCIbjlf+cL51iSqWqDWXnKz5C+YyLGULunKrDvgftLQtYkFFz9VkE105ihDsc+Fz6R8lOnFrNj7SynJ8fxaUvuyFtR31fH"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "8 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.6\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2340х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 629282462,
+            "time1": 13,
+            "time2": 64,
+            "wh": 212032,
+            "dtype": 6597069766657,
+            "dist": 1705,
+            "root": 654177614,
+            "kindId": 0,
+            "brand": "Apple",
+            "brandId": 6049,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "желтый",
+                    "id": 16776960
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "iphone 11 pro, восстановленный",
+            "entity": "смартфоны",
+            "matchId": 426431157,
+            "supplier": "NextGen Tech FTR",
+            "supplierId": 250069700,
+            "supplierRating": 4.4,
+            "supplierFlags": 12224,
+            "pics": 1,
+            "rating": 5,
+            "reviewRating": 4.6,
+            "nmReviewRating": 4.6,
+            "feedbacks": 13,
+            "nmFeedbacks": 13,
+            "volume": 46,
+            "weight": 0.7,
+            "viewFlags": 532480,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 851872306,
+                    "wh": 212032,
+                    "time1": 13,
+                    "time2": 64,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 3081200,
+                        "product": 2392500,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "AysfIbV1U3lCuL+AW/nMKJcIEb+q81sJuT+JUYPSo5s1O7rl4g/dfL4n9K7a18dACmwDVfPNGpQX1yh+N36B83mItvVGW26WXPIEaC7u+jKs7/131lOheevjghYyEoPrzWlbQ08qr2tjSU5gFzb+XSheQRcEuV9a6WpwJCJbYsw+5KfcKqXI23nCJ2ZxDS0KMlJiRkZRMaISbSmmP8PoVHcb+1fJhZ4R5X6fhDKWE7Ntx1/YTOnhYWeALqnC"
+                }
+            ],
+            "totalQuantity": 5,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "4 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "5.8\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2436х1125"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "12 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 567486290,
+            "time1": 2,
+            "time2": 48,
+            "wh": 120762,
+            "dtype": 6597069766664,
+            "dist": 1646,
+            "root": 581259569,
+            "kindId": 0,
+            "brand": "HONOR",
+            "brandId": 24012,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон 400 12ГБ + 256ГБ Полночный черный",
+            "entity": "смартфоны",
+            "matchId": 342928132,
+            "supplier": "it-store",
+            "supplierId": 250000173,
+            "supplierRating": 4.9,
+            "supplierFlags": 12224,
+            "pics": 8,
+            "rating": 2,
+            "reviewRating": 2,
+            "nmReviewRating": 2,
+            "feedbacks": 1,
+            "nmFeedbacks": 1,
+            "panelPromoId": 1030638,
+            "volume": 13,
+            "weight": 0.564,
+            "viewFlags": 1335307,
+            "isNew": true,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 778112498,
+                    "wh": 120762,
+                    "time1": 2,
+                    "time2": 48,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4399000,
+                        "product": 2967200,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A6MDyVuUBnExmRf58xs3bOy6TbWmjtJrRTGm9DMsylvRsTXX890aKi99QVgGO9P/Y3gprKTNSjUMvCXWBWcjGvDauXVsI5PaWDxNMurHUD0oDENQmyb0krDOK+wcGILRK2z9LgbcQvyFNMlN31yl37G8LvptoesVQ7TxFGkXo0wd9ZNzn/MlOwrL4O03qxg0TBEVX1vGsG3L0K9K5E39uDXV81p9g3OnvNHO0Q5Vb1TVlS2z7ZagFdoSAXrn"
+                }
+            ],
+            "totalQuantity": 54,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.5\""
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "200 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 679028851,
+            "time1": 60,
+            "time2": 69,
+            "wh": 371889,
+            "dtype": 6597069766657,
+            "dist": 1696,
+            "root": 694079149,
+            "kindId": 0,
+            "brand": "",
+            "brandId": 0,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон Xiaomi Mi 11 Ultra 12 256 черный",
+            "entity": "смартфоны",
+            "matchId": 429128504,
+            "supplier": "Mobile Home",
+            "supplierId": 250073436,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 5,
+            "rating": 3,
+            "reviewRating": 2.5,
+            "nmReviewRating": 2.5,
+            "feedbacks": 2,
+            "nmFeedbacks": 2,
+            "volume": 20,
+            "weight": 0.3,
+            "viewFlags": 1581120,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 914815479,
+                    "wh": 371889,
+                    "time1": 60,
+                    "time2": 69,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 4150000,
+                        "product": 2900200,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701376,
+                    "payload": "A129qfBCoHXwg5NTrvh9Kn/3TO0YN3hPhoVjzH/ugXiJWT+IQPfdFRQMcIv+GYu8H8Fokp1wvUMIrB8zvAtxqfO4U4Rm8R+tm1mpZi6TWwh/flaXDU0I0/CjtIc7SZ8pircUCnksyWM6/UG0yuomx+3Ty8bkvYtH5Kf1KyOI4NrjYHe0IdxBCUGmoYhHOYSpu9IN+gJzSwi4lb6Oi5s7FGQvRpOljxio8xEGOvOA3dc1jGSXXG9b4I2wwlVe"
+                }
+            ],
+            "totalQuantity": 20,
+            "logs": "MhD8ty4v950mAutaYlFmlajlu4Hd0j0/4k7rGdhNt0DSMZiCAWkhctEn6t3dtA7s/st33Kh+PVJFuA",
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.8\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "3200х1440"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "50 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 695499135,
+            "time1": 48,
+            "time2": 56,
+            "wh": 218804,
+            "dtype": 6597069766657,
+            "dist": 1682,
+            "root": 710460329,
+            "kindId": 0,
+            "brand": "Apple",
+            "brandId": 6049,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "розовый",
+                    "id": 16761035
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон iPhone 13 256 ГБ, розовый Восстановленный",
+            "entity": "смартфоны",
+            "matchId": 497865016,
+            "supplier": "PrimeGadget",
+            "supplierId": 250077574,
+            "supplierRating": 4.7,
+            "supplierFlags": 12224,
+            "pics": 10,
+            "rating": 3,
+            "reviewRating": 2.5,
+            "nmReviewRating": 2.5,
+            "feedbacks": 2,
+            "nmFeedbacks": 2,
+            "volume": 38,
+            "weight": 0.8,
+            "viewFlags": 1581136,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 960482066,
+                    "wh": 218804,
+                    "time1": 48,
+                    "time2": 56,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 5500000,
+                        "product": 2946800,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281701378,
+                    "payload": "A1QMyH59DrOb0gCtDbIxRwOHYolY97hegjnt0JigDI0ISnWzWD+56IXLJziBfCW+L3UfLo43C1VQzl4e3MDLfTG7g7K4cqkum0V9Xe/v4KETqCgonMJFPBEj5d33jPQl5RMJyUULB7dAShwjSnn01f03nlLtU78oi/CsylqMXFP8Ff2GYK8rIkb3JCRwsjegM1ik+9C4wtzrVfEMSK58e5XVlLJVq29dFAApGmkRXICDyQptxnOuxQGzcMEa"
+                }
+            ],
+            "totalQuantity": 9,
+            "logs": "MkanaBszeMmsnV1BFZCvEPoIBRJ8hThOdDTI9M9BHxVykx1lU0euPvnEh1pmg9aqScz7tBxHwhBC",
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "4 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "256 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.1\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2532х1170"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "12 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 754167963,
+            "time1": 120,
+            "time2": 56,
+            "wh": 218804,
+            "dtype": 6597069766657,
+            "dist": 1682,
+            "root": 693266771,
+            "kindId": 0,
+            "brand": "W&O",
+            "brandId": 798668,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "проектор Смартфон Внешний аккумулятор 12 ГБ 512 ГБ черный",
+            "entity": "смартфоны",
+            "matchId": 456587448,
+            "supplier": "D.R.T Store",
+            "supplierId": 250073413,
+            "supplierRating": 4.8,
+            "supplierFlags": 6080,
+            "pics": 14,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "panelPromoId": 1030638,
+            "volume": 26,
+            "weight": 0.9,
+            "viewFlags": 1572864,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1091106253,
+                    "wh": 218804,
+                    "time1": 120,
+                    "time2": 56,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 8250800,
+                        "product": 3448800,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2294284290,
+                    "payload": "Azd2puTvxvt7dI645uAaTbBS0BZrioqLQz/18YLz7gOHqzwqrmozBhT/AOOO7BaYX6z/16rMwpNUT7UIUBS7nLn2yoZrUfsDtUFgcWAA6qpQDn9tGf+66VcKxHjNR4OUdKtjGTAK/yYdl044ie8JPxfmy724Yds2f/Ei2aBGLFFQ5SYzmq5Hw9MBsqVegxWVQoiHmYAMCqLJOi1d1FVdffA1fMdi3e/5Xmlj7h7PlaWfF65AmPm4v54qiVuS"
+                }
+            ],
+            "totalQuantity": 10,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2460х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "108 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 585513510,
+            "time1": 120,
+            "time2": 56,
+            "wh": 218804,
+            "dtype": 6597069766657,
+            "dist": 1682,
+            "root": 620352423,
+            "kindId": 0,
+            "brand": "W&O",
+            "brandId": 798668,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон с проектором Внешний аккумулятор 12 ГБ + 512 ГБ",
+            "entity": "смартфоны",
+            "matchId": 396047313,
+            "supplier": "LSD Store",
+            "supplierId": 4559402,
+            "supplierRating": 4.5,
+            "supplierFlags": 3072,
+            "pics": 13,
+            "rating": 5,
+            "reviewRating": 5,
+            "nmReviewRating": 5,
+            "feedbacks": 6,
+            "nmFeedbacks": 6,
+            "panelPromoId": 1030638,
+            "volume": 26,
+            "weight": 0.9,
+            "viewFlags": 1572880,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 800265007,
+                    "wh": 218804,
+                    "time1": 120,
+                    "time2": 56,
+                    "dtype": 6597069766657,
+                    "price": {
+                        "basic": 7208000,
+                        "product": 3492200,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2294284290,
+                    "payload": "A83BC8Dq4ppKju8eqXwi0E+O/CalcWFBoPaiC0q5IUh7KL5qmFLjn5WDiWe68eGE7cYKSE7LFYrK/MGmJQBXsR7yp8qZ60Z9Y7Pb1ZRT0HgaTZtl71nvpurCRdYP6YOMgs7WtwEMySltCjUFfbuRKIwwZRByfnHaR+VKg4zguR4a3XtE/kyN0ivE0euQCp9O7I3z1DiUbwTOt0nAE4ZfxKHX9PPjFIgGdsejRdUXFDqyKbDKD1L/y3e+0DD/"
+                }
+            ],
+            "totalQuantity": 18,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "6.7\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "2460х1080"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "68 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 803384269,
+            "time1": 2,
+            "time2": 51,
+            "wh": 507,
+            "dtype": 6597069766664,
+            "dist": 1724,
+            "root": 873316250,
+            "kindId": 0,
+            "brand": "Xiaomi",
+            "brandId": 19467,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Redmi Note 15 Pro 12+512GB",
+            "entity": "смартфоны",
+            "matchId": 0,
+            "supplier": "Wildberries",
+            "supplierId": 250000393,
+            "supplierRating": 4.8,
+            "supplierFlags": 12224,
+            "pics": 6,
+            "rating": 0,
+            "reviewRating": 0,
+            "nmReviewRating": 0,
+            "feedbacks": 0,
+            "nmFeedbacks": 0,
+            "panelPromoId": 1030638,
+            "volume": 20,
+            "weight": 0.5,
+            "viewFlags": 1327180,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 1200851832,
+                    "wh": 507,
+                    "time1": 2,
+                    "time2": 51,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 4553000,
+                        "product": 3096000,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 3355443200,
+                    "payload": "A48GApHww2OqKJOsrrVPDoPCYiso3GyIb4ZaH7ZFXEGuUyXdocQr7nunc1yU0ptJP87l57TfWtfleCN5ZMT6gmM5EKDf0vL8IpNHkdtTKlcpy21I5nS1Q4jwe+0GQ11d9WxHg/OXYu+aIN5vt97+vV/sEH77TWYQ2Vx1vlSxfppTbfM7iAqMA9An/Qh1YZ8MhwlILIpU/SBnVKNKWHFyb305hRTBUj3a6SsuSOM7SffyzAi3nx0SIVJeb5st"
+                }
+            ],
+            "totalQuantity": 2,
+            "logs": "MiHs7q6OcKhToROXHzb1Sr8NBplNkfyCdSkBQ38QwKS6fN5dgJMOIZobh1k1mtL/DmtkalBxu2v0",
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "12 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "200 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        },
+        {
+            "id": 710033819,
+            "time1": 2,
+            "time2": 48,
+            "wh": 120762,
+            "dtype": 6597069766664,
+            "dist": 1646,
+            "root": 726277944,
+            "kindId": 0,
+            "brand": "Oukitel",
+            "brandId": 26210,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 515,
+            "subjectParentId": 6258,
+            "name": "Смартфон WP60 5G, 120 Гц, 48(16+32)+512 ГБ",
+            "entity": "смартфоны",
+            "matchId": 426573668,
+            "supplier": "AOMIAO",
+            "supplierId": 250072526,
+            "supplierRating": 4.5,
+            "supplierFlags": 12224,
+            "pics": 9,
+            "rating": 1,
+            "reviewRating": 1,
+            "nmReviewRating": 1,
+            "feedbacks": 1,
+            "nmFeedbacks": 1,
+            "volume": 26,
+            "weight": 0.36,
+            "viewFlags": 1318928,
+            "sizes": [
+                {
+                    "name": "",
+                    "origName": "0",
+                    "rank": 0,
+                    "optionId": 992270068,
+                    "wh": 120762,
+                    "time1": 2,
+                    "time2": 48,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 6650000,
+                        "product": 3098200,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 2281711616,
+                    "payload": "A4OjvsPQY8yRH3ohUYeSuuQCvCsq6miBvWhAT2LEXMWMvS1tfKdscAa6WewsBfRkCHgn+TT98q4VIUS4RF+dhY5M06yCt2dzbxyNgse3TSR6W2hrlYTdRt2OZ8GN8NYLGGYW8LmfPWgrXOV5o0J+xrrriYwmyHTFS2tvc2QPGoq6t3FIzKmCYJm48rzPqWOTdKRJMWsOMK37UKAUxXCnTckPXXLpSv34ZlkIZZMBB4AVCbRZL1Qfmc37p9kH"
+                }
+            ],
+            "totalQuantity": 34,
+            "meta": {
+                "tokens": [],
+                "characteristics": [
+                    {
+                        "name": "Объем оперативной памяти",
+                        "values": [
+                            "48 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Объем встроенной памяти",
+                        "values": [
+                            "512 ГБ"
+                        ]
+                    },
+                    {
+                        "name": "Диагональ экрана",
+                        "values": [
+                            "7.2\""
+                        ]
+                    },
+                    {
+                        "name": "Разрешение экрана",
+                        "values": [
+                            "3840х2160"
+                        ]
+                    },
+                    {
+                        "name": "Основная камера",
+                        "values": [
+                            "108 Мп"
+                        ]
+                    }
+                ],
+                "presetId": 77001325
+            }
+        }
+    ],
+    "total": 4749
+}
