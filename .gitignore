@@ -1,0 +1,6 @@
+.env
+.env.range
+
+__pycache__/
+venv/
+.venv/
